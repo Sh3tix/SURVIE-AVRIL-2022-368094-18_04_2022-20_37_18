@@ -1,0 +1,72 @@
+# Customize this file to change all shop items inside the main shop screen
+# For more info about this file, please visit our wiki here: https://gpplugins.gitbook.io/economyshopgui/file-configuration/sections.yml
+
+ShopSections:
+
+  Blocks:
+    enable: true
+    material: GRASS_BLOCK
+    displayname: '&2&lBlocks'
+    place: 19
+
+  Enchanting:
+    enable: true
+    material: ENCHANTED_BOOK
+    displayname: '&d&lEnchanting'
+    place: 22
+    lore:
+    - '&5&lGear up with enchantments!'
+
+  Food:
+    enable: true
+    material: COOKED_BEEF
+    displayname: '&6&lFood'
+    place: 25
+
+  Mobs:
+    enable: true
+    material: GUNPOWDER
+    displayname: '&7&lMobs'
+    place: 21
+
+  Music:
+    enable: true
+    material: MUSIC_DISC_STRAD
+    displayname: '&6&lMusic'
+    place: 14
+
+  Ores:
+    enable: true
+    material: IRON_INGOT
+    displayname: '&f&lOres'
+    place: 13
+
+  Others:
+    enable: true
+    material: SADDLE
+    displayname: '&c&lOthers'
+    place: 24
+
+  Spawners:
+    enable: true
+    material: SPAWNER
+    displayname: '&8&lSpawners'
+    place: 31
+
+  SpawnEggs:
+    enable: false
+    material: BAT_SPAWN_EGG
+    displayname: '&8&lSpawnEggs'
+    place: 4
+
+  Z_EverythingElse:
+    enable: false
+    material: BEDROCK
+    displayname: Z_EverythingElse
+    place: 41
+
+Fill-item:
+  material: GRAY_STAINED_GLASS_PANE
+# displayname: "&8Nothing here"
+  #Disable this item by setting this value to false
+  enable: true

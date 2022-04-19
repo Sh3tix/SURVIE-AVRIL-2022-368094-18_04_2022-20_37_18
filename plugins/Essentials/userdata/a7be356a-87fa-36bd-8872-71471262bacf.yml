@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 176.189.183.10
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1650305067820
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1650305096826
+  login: 1650305087524
+money: '28932.71000000000018584'
+last-account-name: DEBZA_7890
+lastlocation:
+  world: fa6985e6-456c-45cc-97f9-06027b6c7af5
+  world-name: world
+  x: 3053.9779031860353
+  y: 106.0
+  z: 7365.176390931054
+  yaw: -127.5000228881836
+  pitch: 16.049991607666016
+logoutlocation:
+  world: fa6985e6-456c-45cc-97f9-06027b6c7af5
+  world-name: world
+  x: 4475.49636952599
+  y: 63.0
+  z: 7754.458663632505
+  yaw: -81.54301452636719
+  pitch: 47.24997329711914

@@ -1,0 +1,28 @@
+{
+  "uuid": "a7be356a-87fa-36bd-8872-71471262bacf",
+  "name": "DEBZA_7890",
+  "wins": 2,
+  "losses": 0,
+  "requests": true,
+  "rating": {
+    "-": 1432
+  },
+  "matches": [
+    {
+      "winner": "DEBZA_7890",
+      "loser": "TeddySton",
+      "kit": "none",
+      "time": 1650268519312,
+      "duration": 22060,
+      "health": 2.5
+    },
+    {
+      "winner": "DEBZA_7890",
+      "loser": "TeddySton",
+      "kit": "none",
+      "time": 1650268519312,
+      "duration": 38674,
+      "health": 8.0
+    }
+  ]
+}

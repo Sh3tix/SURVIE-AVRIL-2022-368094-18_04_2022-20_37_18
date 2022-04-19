@@ -1,0 +1,20 @@
+{
+  "uuid": "2cd57267-6a4f-3a10-bc8f-99ac2184e874",
+  "name": "BLAYNNN",
+  "wins": 1,
+  "losses": 0,
+  "requests": true,
+  "rating": {
+    "Gladiateur": 1416
+  },
+  "matches": [
+    {
+      "winner": "BLAYNNN",
+      "loser": "lebossed6732",
+      "kit": "Gladiateur",
+      "time": 1650078187906,
+      "duration": 13438,
+      "health": 2.0
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 176.189.183.10
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1649883486010
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1650012119315
+  login: 1650012060938
+money: '44697.45650000000022203'
+last-account-name: sami
+lastlocation:
+  world: fa6985e6-456c-45cc-97f9-06027b6c7af5
+  world-name: world
+  x: 4473.200084985089
+  y: 63.0
+  z: 7753.8904238728655
+  yaw: -75.448974609375
+  pitch: 9.14997673034668
+logoutlocation:
+  world: fa6985e6-456c-45cc-97f9-06027b6c7af5
+  world-name: world
+  x: 4427.834632366676
+  y: 113.5625
+  z: 7733.889786698895
+  yaw: 5.39998722076416
+  pitch: 12.44998550415039

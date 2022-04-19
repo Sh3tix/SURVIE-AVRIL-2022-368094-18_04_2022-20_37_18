@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 79.87.22.67
+afk: true
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1650304475946
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1650305397446
+  login: 1650305402136
+money: '3463.42175000000011686'
+last-account-name: Elhim
+lastlocation:
+  world: fa6985e6-456c-45cc-97f9-06027b6c7af5
+  world-name: world
+  x: 4481.493636236182
+  y: 63.0
+  z: 7765.185590813939
+  yaw: 140.82943725585938
+  pitch: -4.084956169128418
+logoutlocation:
+  world: fa6985e6-456c-45cc-97f9-06027b6c7af5
+  world-name: world
+  x: 4488.781438827266
+  y: 123.91696598420022
+  z: 7771.559073958615
+  yaw: 98.89752960205078
+  pitch: -6.585349082946777

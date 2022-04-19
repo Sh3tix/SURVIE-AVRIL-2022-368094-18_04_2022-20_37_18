@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 87.90.251.209
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1650304799763
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1650305282878
+  login: 1650303791615
+money: '9776.61935000000025971'
+last-account-name: CookieCreepy_
+lastlocation:
+  world: fa6985e6-456c-45cc-97f9-06027b6c7af5
+  world-name: world
+  x: 15662.212052411232
+  y: 73.0
+  z: 1820.7057091843594
+  yaw: 4.58364200592041
+  pitch: 22.042903900146484
+logoutlocation:
+  world: fa6985e6-456c-45cc-97f9-06027b6c7af5
+  world-name: world
+  x: 4466.411080637463
+  y: 63.0
+  z: 7421.674449021904
+  yaw: -176.23568725585938
+  pitch: -55.83711242675781
+homes:
+  home:
+    world: fa6985e6-456c-45cc-97f9-06027b6c7af5
+    world-name: world
+    x: 4461.595458053405
+    y: 63.0
+    z: 7434.787406072067
+    yaw: 25.718563079833984
+    pitch: 22.935253143310547

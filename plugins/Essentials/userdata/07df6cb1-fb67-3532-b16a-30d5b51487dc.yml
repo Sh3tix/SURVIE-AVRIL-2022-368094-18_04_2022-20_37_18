@@ -1,0 +1,71 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 90.8.207.177
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1650304698777
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1650304970206
+  login: 1650301756593
+money: '1725.28230000000017944'
+last-account-name: lebossed6732
+logoutlocation:
+  world: fa6985e6-456c-45cc-97f9-06027b6c7af5
+  world-name: world
+  x: 4479.344222289945
+  y: 65.0
+  z: 7759.386476789716
+  yaw: -157.62474060058594
+  pitch: 43.77742004394531
+lastlocation:
+  world: fa6985e6-456c-45cc-97f9-06027b6c7af5
+  world-name: world
+  x: 4481.493636236182
+  y: 63.0
+  z: 7765.185590813939
+  yaw: 140.82943725585938
+  pitch: -4.084956169128418
+homes:
+  village:
+    world: fa6985e6-456c-45cc-97f9-06027b6c7af5
+    world-name: world
+    x: 4488.525420982089
+    y: 63.0
+    z: 7812.166254745
+    yaw: 164.52764892578125
+    pitch: 4.573886871337891
+  base:
+    world: fa6985e6-456c-45cc-97f9-06027b6c7af5
+    world-name: world
+    x: 4162.275440823958
+    y: 68.0
+    z: 5925.452074004738
+    yaw: -71.146728515625
+    pitch: 4.3230509757995605
+  forteresse:
+    world: 90538454-b48d-4886-aea4-9591740423b8
+    world-name: world_nether
+    x: 561.6734663173131
+    y: 65.0
+    z: -537.4291126157148
+    yaw: 117.3973388671875
+    pitch: 12.916304588317871
+  strongold:
+    world: fa6985e6-456c-45cc-97f9-06027b6c7af5
+    world-name: world
+    x: 2554.250043606876
+    y: 26.0
+    z: 5011.54017299634
+    yaw: -173.3355712890625
+    pitch: 3.1014299392700195

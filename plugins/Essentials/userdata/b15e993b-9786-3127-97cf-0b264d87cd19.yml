@@ -1,0 +1,104 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 79.86.251.78
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1650304471299
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1650304635158
+  login: 1650301716887
+money: '98155590542.77'
+last-account-name: OnlyBis
+lastlocation:
+  world: fa6985e6-456c-45cc-97f9-06027b6c7af5
+  world-name: world
+  x: 15698.388960340311
+  y: 71.5
+  z: 1774.2504169875358
+  yaw: 133.7494659423828
+  pitch: 24.149789810180664
+logoutlocation:
+  world: fa6985e6-456c-45cc-97f9-06027b6c7af5
+  world-name: world
+  x: 15700.179599492305
+  y: 70.0
+  z: 1765.074999988079
+  yaw: -34.693939208984375
+  pitch: 17.34553337097168
+homes:
+  home:
+    world: fa6985e6-456c-45cc-97f9-06027b6c7af5
+    world-name: world
+    x: 4500.0632661347545
+    y: 63.0
+    z: 7796.895089097366
+    yaw: -60.199771881103516
+    pitch: 20.983013153076172
+  malte:
+    world: fa6985e6-456c-45cc-97f9-06027b6c7af5
+    world-name: world
+    x: 16041.950639056166
+    y: 106.0
+    z: 1517.793007359458
+    yaw: 123.27871704101562
+    pitch: 24.827198028564453
+  grotte:
+    world: fa6985e6-456c-45cc-97f9-06027b6c7af5
+    world-name: world
+    x: 16077.71070957236
+    y: 23.0
+    z: 1301.8701812977229
+    yaw: 82.8280029296875
+    pitch: 16.949304580688477
+  malte2:
+    world: fa6985e6-456c-45cc-97f9-06027b6c7af5
+    world-name: world
+    x: 16079.914756851344
+    y: 79.0
+    z: 1494.3770942325423
+    yaw: -169.1112060546875
+    pitch: 46.950653076171875
+  arene:
+    world: fa6985e6-456c-45cc-97f9-06027b6c7af5
+    world-name: world
+    x: 15714.68440535813
+    y: 72.0
+    z: 1786.699999988079
+    yaw: 157.9000244140625
+    pitch: 17.099559783935547
+  gab:
+    world: fa6985e6-456c-45cc-97f9-06027b6c7af5
+    world-name: world
+    x: 4163.922266814288
+    y: 62.0
+    z: 5926.208230881381
+    yaw: 138.82359313964844
+    pitch: 6.624316215515137
+  sky:
+    world: fa6985e6-456c-45cc-97f9-06027b6c7af5
+    world-name: world
+    x: 15629.492465510599
+    y: 167.0
+    z: 1597.9122807774756
+    yaw: 84.11981201171875
+    pitch: 21.600139617919922
+  casa:
+    world: fa6985e6-456c-45cc-97f9-06027b6c7af5
+    world-name: world
+    x: 15628.648768825458
+    y: 83.0
+    z: 1627.692812868993
+    yaw: -54.37126541137695
+    pitch: 11.552309036254883
+nickname: §5Admin

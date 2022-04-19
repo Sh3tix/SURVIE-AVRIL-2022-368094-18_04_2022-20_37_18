@@ -1,0 +1,129 @@
+{
+  "Gladiateur": {
+    "name": "Gladiateur",
+    "displayed": {
+      "item": {
+        "==": "org.bukkit.inventory.ItemStack",
+        "v": 2975,
+        "type": "DIAMOND_SWORD",
+        "meta": {
+          "==": "ItemMeta",
+          "meta-type": "UNSPECIFIC",
+          "display-name": "{\"extra\":[{\"bold\":true,\"italic\":false,\"underlined\":false,\"strikethrough\":false,\"obfuscated\":false,\"color\":\"gray\",\"text\":\"Gladiateur\"}],\"text\":\"\"}",
+          "lore": [
+            "{\"extra\":[{\"bold\":false,\"italic\":false,\"underlined\":false,\"strikethrough\":false,\"obfuscated\":false,\"color\":\"green\",\"text\":\"Click to send\"}],\"text\":\"\"}",
+            "{\"extra\":[{\"bold\":false,\"italic\":false,\"underlined\":false,\"strikethrough\":false,\"obfuscated\":false,\"color\":\"green\",\"text\":\"a duel request\"}],\"text\":\"\"}",
+            "{\"extra\":[{\"bold\":false,\"italic\":false,\"underlined\":false,\"strikethrough\":false,\"obfuscated\":false,\"color\":\"green\",\"text\":\"with this kit!\"}],\"text\":\"\"}"
+          ]
+        }
+      }
+    },
+    "usePermission": false,
+    "arenaSpecific": false,
+    "characteristics": [ ],
+    "items": {
+      "INVENTORY": {
+        "0": {
+          "item": {
+            "==": "org.bukkit.inventory.ItemStack",
+            "v": 2975,
+            "type": "GOLDEN_SWORD"
+          }
+        },
+        "1": {
+          "item": {
+            "==": "org.bukkit.inventory.ItemStack",
+            "v": 2975,
+            "type": "COOKED_BEEF",
+            "amount": 15
+          }
+        },
+        "36": {
+          "item": {
+            "==": "org.bukkit.inventory.ItemStack",
+            "v": 2975,
+            "type": "IRON_BOOTS"
+          }
+        },
+        "37": {
+          "item": {
+            "==": "org.bukkit.inventory.ItemStack",
+            "v": 2975,
+            "type": "IRON_LEGGINGS"
+          }
+        },
+        "38": {
+          "item": {
+            "==": "org.bukkit.inventory.ItemStack",
+            "v": 2975,
+            "type": "IRON_CHESTPLATE"
+          }
+        },
+        "39": {
+          "item": {
+            "==": "org.bukkit.inventory.ItemStack",
+            "v": 2975,
+            "type": "IRON_HELMET"
+          }
+        }
+      },
+      "ARMOR": {
+        "1": {
+          "item": {
+            "==": "org.bukkit.inventory.ItemStack",
+            "v": 2975,
+            "type": "IRON_HELMET"
+          }
+        },
+        "2": {
+          "item": {
+            "==": "org.bukkit.inventory.ItemStack",
+            "v": 2975,
+            "type": "IRON_CHESTPLATE"
+          }
+        },
+        "3": {
+          "item": {
+            "==": "org.bukkit.inventory.ItemStack",
+            "v": 2975,
+            "type": "IRON_LEGGINGS"
+          }
+        },
+        "4": {
+          "item": {
+            "==": "org.bukkit.inventory.ItemStack",
+            "v": 2975,
+            "type": "IRON_BOOTS"
+          }
+        }
+      }
+    }
+  },
+  "CulNu": {
+    "name": "CulNu",
+    "displayed": {
+      "item": {
+        "==": "org.bukkit.inventory.ItemStack",
+        "v": 2975,
+        "type": "DIAMOND_SWORD",
+        "meta": {
+          "==": "ItemMeta",
+          "meta-type": "UNSPECIFIC",
+          "display-name": "{\"extra\":[{\"bold\":true,\"italic\":false,\"underlined\":false,\"strikethrough\":false,\"obfuscated\":false,\"color\":\"gray\",\"text\":\"CulNu\"}],\"text\":\"\"}",
+          "lore": [
+            "{\"extra\":[{\"bold\":false,\"italic\":false,\"underlined\":false,\"strikethrough\":false,\"obfuscated\":false,\"color\":\"green\",\"text\":\"Click to send\"}],\"text\":\"\"}",
+            "{\"extra\":[{\"bold\":false,\"italic\":false,\"underlined\":false,\"strikethrough\":false,\"obfuscated\":false,\"color\":\"green\",\"text\":\"a duel request\"}],\"text\":\"\"}",
+            "{\"extra\":[{\"bold\":false,\"italic\":false,\"underlined\":false,\"strikethrough\":false,\"obfuscated\":false,\"color\":\"green\",\"text\":\"with this kit!\"}],\"text\":\"\"}"
+          ]
+        }
+      }
+    },
+    "usePermission": false,
+    "arenaSpecific": false,
+    "characteristics": [ ],
+    "items": {
+      "INVENTORY": { },
+      "ARMOR": { }
+    }
+  }
+}

@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 89.80.19.107
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1650304454751
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1650304749870
+  login: 1650302566267
+money: '171257.8340999999958586'
+last-account-name: RiimKuus
+logoutlocation:
+  world: fa6985e6-456c-45cc-97f9-06027b6c7af5
+  world-name: world
+  x: 15696.423224984967
+  y: 77.63768537063525
+  z: 1778.8186563356348
+  yaw: 26.363880157470703
+  pitch: 4.500391006469727
+lastlocation:
+  world: fa6985e6-456c-45cc-97f9-06027b6c7af5
+  world-name: world
+  x: 4203.670801241296
+  y: 107.53700518791048
+  z: 5978.406345862335
+  yaw: 154.13499450683594
+  pitch: 49.650779724121094
+homes:
+  home:
+    world: fa6985e6-456c-45cc-97f9-06027b6c7af5
+    world-name: world
+    x: 4525.276436121467
+    y: 63.0
+    z: 7812.958492778102
+    yaw: -168.177734375
+    pitch: 8.850637435913086

@@ -1,0 +1,55 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 79.90.109.66
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1650304851665
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1650304951267
+  login: 1650301830687
+money: '759059774.0624998199949752'
+last-account-name: Yonuu
+lastlocation:
+  world: fa6985e6-456c-45cc-97f9-06027b6c7af5
+  world-name: world
+  x: 4481.300000011921
+  y: 62.0
+  z: 7769.699999988079
+  yaw: -122.44998168945312
+  pitch: -5.757137298583984
+logoutlocation:
+  world: fa6985e6-456c-45cc-97f9-06027b6c7af5
+  world-name: world
+  x: 15707.253049531026
+  y: 65.0
+  z: 1773.774676868041
+  yaw: -22.05599594116211
+  pitch: 18.98358917236328
+homes:
+  home:
+    world: fa6985e6-456c-45cc-97f9-06027b6c7af5
+    world-name: world
+    x: 16046.375248362076
+    y: 106.0
+    z: 1525.292750353668
+    yaw: -28.21923828125
+    pitch: 21.12779426574707
+  b:
+    world: fa6985e6-456c-45cc-97f9-06027b6c7af5
+    world-name: world
+    x: 4163.96629251975
+    y: 62.0
+    z: 5925.883331265191
+    yaw: -83.4339370727539
+    pitch: 21.836286544799805

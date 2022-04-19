@@ -1,0 +1,55 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 90.116.254.84
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1650303688429
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1650306892678
+  login: 1650306565633
+money: '26961.4634499999992318'
+last-account-name: BLAYNNN
+lastlocation:
+  world: fa6985e6-456c-45cc-97f9-06027b6c7af5
+  world-name: world
+  x: 16041.5
+  y: 106.0
+  z: 1520.5
+  yaw: 114.47135162353516
+  pitch: -1.151415228843689
+logoutlocation:
+  world: 18ba5c42-d979-4573-a0d5-76e1e034b4a0
+  world-name: world_the_end
+  x: 431.69999998807907
+  y: 60.0
+  z: -1683.6126302725584
+  yaw: -94.39541625976562
+  pitch: 3.7486376762390137
+homes:
+  home:
+    world: fa6985e6-456c-45cc-97f9-06027b6c7af5
+    world-name: world
+    x: 16050.324427730153
+    y: 105.0
+    z: 1526.6294754991543
+    yaw: 172.02764892578125
+    pitch: 41.327274322509766
+  sque:
+    world: fa6985e6-456c-45cc-97f9-06027b6c7af5
+    world-name: world
+    x: 16105.591389618605
+    y: -20.0
+    z: 1164.471842860813
+    yaw: 169.9967041015625
+    pitch: 17.7747859954834

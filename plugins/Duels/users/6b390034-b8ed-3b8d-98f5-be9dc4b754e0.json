@@ -1,0 +1,53 @@
+{
+  "uuid": "6b390034-b8ed-3b8d-98f5-be9dc4b754e0",
+  "name": "TeddySton",
+  "wins": 12,
+  "losses": 19,
+  "requests": true,
+  "rating": {
+    "Gladiateur": 1373,
+    "-": 1383
+  },
+  "matches": [
+    {
+      "winner": "TeddySton",
+      "loser": "Yonuu",
+      "kit": "none",
+      "time": 1650231970859,
+      "duration": 28236,
+      "health": 10.0
+    },
+    {
+      "winner": "TeddySton",
+      "loser": "Yonuu",
+      "kit": "none",
+      "time": 1650231970859,
+      "duration": 23567,
+      "health": 10.0
+    },
+    {
+      "winner": "DEBZA_7890",
+      "loser": "TeddySton",
+      "kit": "none",
+      "time": 1650268519312,
+      "duration": 22060,
+      "health": 2.5
+    },
+    {
+      "winner": "DEBZA_7890",
+      "loser": "TeddySton",
+      "kit": "none",
+      "time": 1650268519312,
+      "duration": 38674,
+      "health": 8.0
+    },
+    {
+      "winner": "lebossed6732",
+      "loser": "TeddySton",
+      "kit": "none",
+      "time": 1650293828068,
+      "duration": 16805,
+      "health": 3.5
+    }
+  ]
+}

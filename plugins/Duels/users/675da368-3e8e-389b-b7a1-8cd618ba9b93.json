@@ -1,0 +1,52 @@
+{
+  "uuid": "675da368-3e8e-389b-b7a1-8cd618ba9b93",
+  "name": "Elhim",
+  "wins": 1,
+  "losses": 4,
+  "requests": true,
+  "rating": {
+    "Gladiateur": 1370
+  },
+  "matches": [
+    {
+      "winner": "lebossed6732",
+      "loser": "Elhim",
+      "kit": "Gladiateur",
+      "time": 1650293828068,
+      "duration": 14362,
+      "health": 7.0
+    },
+    {
+      "winner": "lebossed6732",
+      "loser": "Elhim",
+      "kit": "Gladiateur",
+      "time": 1650293828068,
+      "duration": 18157,
+      "health": 2.5
+    },
+    {
+      "winner": "lebossed6732",
+      "loser": "Elhim",
+      "kit": "Gladiateur",
+      "time": 1650293828068,
+      "duration": 12444,
+      "health": 6.0
+    },
+    {
+      "winner": "lebossed6732",
+      "loser": "Elhim",
+      "kit": "Gladiateur",
+      "time": 1650293828068,
+      "duration": 20401,
+      "health": 3.0
+    },
+    {
+      "winner": "Elhim",
+      "loser": "lebossed6732",
+      "kit": "Gladiateur",
+      "time": 1650293828068,
+      "duration": 39547,
+      "health": 2.5
+    }
+  ]
+}

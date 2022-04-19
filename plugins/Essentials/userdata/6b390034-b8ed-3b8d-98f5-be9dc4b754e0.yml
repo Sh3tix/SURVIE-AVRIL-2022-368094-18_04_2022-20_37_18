@@ -1,0 +1,64 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 88.164.217.30
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1650304723935
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1650305815039
+  login: 1650303842882
+money: '998474366.19059947681071898'
+last-account-name: TeddySton
+lastlocation:
+  world: fa6985e6-456c-45cc-97f9-06027b6c7af5
+  world-name: world
+  x: 15564.495577937532
+  y: 294.5370120446262
+  z: 1290.9619422080962
+  yaw: -63.50225067138672
+  pitch: 87.91314697265625
+logoutlocation:
+  world: fa6985e6-456c-45cc-97f9-06027b6c7af5
+  world-name: world
+  x: 4415.343622915262
+  y: 122.0
+  z: 7736.435934350672
+  yaw: 124.85926818847656
+  pitch: 44.08909225463867
+confirm-pay: false
+homes:
+  maison:
+    world: fa6985e6-456c-45cc-97f9-06027b6c7af5
+    world-name: world
+    x: 4156.852474099453
+    y: 55.0
+    z: 5929.801777444015
+    yaw: 13.742950439453125
+    pitch: 24.960269927978516
+  malte:
+    world: fa6985e6-456c-45cc-97f9-06027b6c7af5
+    world-name: world
+    x: 16043.93273398917
+    y: 106.0
+    z: 1522.577874140768
+    yaw: -46.95652770996094
+    pitch: 19.4816837310791
+  village:
+    world: fa6985e6-456c-45cc-97f9-06027b6c7af5
+    world-name: world
+    x: 4523.298097296172
+    y: 40.0
+    z: 7772.586024490817
+    yaw: -4.13720703125
+    pitch: 17.855682373046875

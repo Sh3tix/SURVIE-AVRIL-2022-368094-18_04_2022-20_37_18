@@ -1,0 +1,53 @@
+{
+  "uuid": "6865f91e-2d2a-3b95-bbb6-e0c1cb6e3fb7",
+  "name": "Yonuu",
+  "wins": 13,
+  "losses": 14,
+  "requests": true,
+  "rating": {
+    "Gladiateur": 1383,
+    "-": 1342
+  },
+  "matches": [
+    {
+      "winner": "TeddySton",
+      "loser": "Yonuu",
+      "kit": "none",
+      "time": 1650231970859,
+      "duration": 38173,
+      "health": 10.0
+    },
+    {
+      "winner": "TeddySton",
+      "loser": "Yonuu",
+      "kit": "none",
+      "time": 1650231970859,
+      "duration": 28236,
+      "health": 10.0
+    },
+    {
+      "winner": "TeddySton",
+      "loser": "Yonuu",
+      "kit": "none",
+      "time": 1650231970859,
+      "duration": 23567,
+      "health": 10.0
+    },
+    {
+      "winner": "lebossed6732",
+      "loser": "Yonuu",
+      "kit": "none",
+      "time": 1650293828068,
+      "duration": 30260,
+      "health": 2.0
+    },
+    {
+      "winner": "lebossed6732",
+      "loser": "Yonuu",
+      "kit": "Gladiateur",
+      "time": 1650293828068,
+      "duration": 131826,
+      "health": 0.5
+    }
+  ]
+}

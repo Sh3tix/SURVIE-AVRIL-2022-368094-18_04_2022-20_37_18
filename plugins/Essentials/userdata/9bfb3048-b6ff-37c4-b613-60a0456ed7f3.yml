@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 90.8.207.177
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1649751303687
+  login: 1649751221130
+money: '25964.859554999999198599'
+last-account-name: Macron
+logoutlocation:
+  world: fa6985e6-456c-45cc-97f9-06027b6c7af5
+  world-name: world
+  x: 1.3658746613308455
+  y: 75.0
+  z: 5.529868674876694
+  yaw: -37.82569122314453
+  pitch: -23.399959564208984
